@@ -4,7 +4,7 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.auth.mixins import LoginRequiredMixin
 from django.views.generic import ListView,DetailView
 from .forms import UserRegisterForm, UserUpdateForm,ProfileUpdateForm
-from awards.models import Profile
+from prospect.models import Profile
 # Create your views here.
 def register (request):
     if request.method == 'POST':

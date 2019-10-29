@@ -1,7 +1,7 @@
 from django import forms
 from django.forms import ModelForm
 from django.contrib.auth.models import User
-from awards.models import Projects,Profile
+from prospect.models import Projects,Profile
 from django.contrib.auth.forms import UserCreationForm
 
 
