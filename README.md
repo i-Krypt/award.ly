@@ -9,7 +9,7 @@ One also gets to visit the projects posted.
 ### Screenshots 
 ###### Home page
  
-<img src="https://i.ibb.co/1dnV1p5/Screenshot-from-2019-10-28-00-40-05.png">
+<img src="https://i.ibb.co/GnHjtT7/Screenshot-from-2019-10-30-12-15-42.png">
  
 ### User Story  
   
