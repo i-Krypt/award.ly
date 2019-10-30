@@ -9,7 +9,11 @@
             <form action="" method="POST" enctype="multipart/form-data">
                 {% csrf_token %}
                 <fieldset class="form-group">
-                    <legend class="border-bottom mb-4 text-center"> Image Post</legend>
+                    <br>
+                    <h4 class="ui horizontal divider header">
+                        <i class="file alternate outline icon"></i>
+                        Post Details
+                      </h4>
                     {{form|crispy}}
                 </fieldset>
                 <div class="form-group">
