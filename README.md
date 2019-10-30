@@ -4,8 +4,8 @@ A Django awards application, where users can review,update,delete and submit a p
 Sam Nujoma
   
 ### Description  
-This is a Django application that imitates instagram functionalities.
-    
+This is a Django application that displays projects posted and get reviews on the projects and also updates.
+One also gets to visit the projects posted.
 ### Screenshots 
 ###### Home page
  
