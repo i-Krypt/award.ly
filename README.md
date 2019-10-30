@@ -1,5 +1,5 @@
-# instaclone
-A Django instaclone application, where users can comment and like images and upload an image.Users also get to view their profile. 
+# Award.ly
+A Django awards application, where users can comment and like images and upload an image.Users also get to view their profile. 
 The user can also view the image category on toggle and image details.
 ### Author  
 Sam Nujoma
