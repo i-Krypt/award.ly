@@ -11,14 +11,19 @@ One also gets to visit the projects posted.
  
 <img src="https://i.ibb.co/GnHjtT7/Screenshot-from-2019-10-30-12-15-42.png">
  
-### User Story  
-  
-* User gets to view different photos
-* Get to like and comment on an image
-* Search for different categories of the images 
-* View user profile and posts
-* View photos based on the location they were taken.  
-  
+### User Stories
+* As a user, I would like to view different Projects that .
+* As a user I would like to View projects overall score
+* As a user I would like to View my profile page
+* As a user I would like to Rate/ review other users' projects
+* As a user I would like Post a project to be rated/reviewed
+
+
+### Behavior Driven Development
+* The application should display Projects.
+* When a user clicks Review the  project should display apage to review that project.
+* When a user enters a search term on the search input and submits it, then they should be able to get a result of what they are looking for or if the term does not exist, they should get a message to inform them.
+* When a user click view site they should be redirect to a page with the Project of the day.
 
   
 ### Setup and Installation  
@@ -26,7 +31,7 @@ Get started ...
   
 ##### Clone the repository:  
  ```bash 
-https://github.com/i-Krypt/instaclone.git
+https://github.com/i-Krypt/award.ly.git
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
