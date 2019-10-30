@@ -31,16 +31,16 @@
             <div class="content">
                 
                     <span class="right floated">
-                        <h2 class="article-title">Design:{{ object.design }}</h2>
+                        <h2 class="article-title">Design:{{ object.design|floatformat:2 }}</h2>
                     </span>
                     <span>
-                        <h2 class="article-title">Usability:{{ object.usability }}</h2>
+                        <h2 class="article-title">Usability:{{ object.usability|floatformat:2 }}</h2>
                     </span>
                     <span class="right floated">
-                        <h2 class="article-title">Creativity:{{ object.creativity }}</h2>
+                        <h2 class="article-title">Creativity:{{ object.creativity|floatformat:2 }}</h2>
                     </span>
                     <span>
-                        <h2 class="article-title">Content:{{ object.content }}</h2>
+                        <h2 class="article-title">Content:{{ object.content|floatformat:2 }}</h2>
                     </span>
             </div>
             
