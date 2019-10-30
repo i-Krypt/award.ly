@@ -1,6 +1,5 @@
 # Award.ly
 A Django awards application, where users can review,update,delete and submit a project. 
-The user can also view the image category on toggle and image details.
 ### Author  
 Sam Nujoma
   
