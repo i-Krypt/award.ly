@@ -35,7 +35,7 @@ https://github.com/i-Krypt/award.ly.git
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
-cd instaclone and pip install -r requirements.txt 
+cd award.ly and pip install -r requirements.txt 
 ```
 ##### Install and activate Virtual
  ```bash 
@@ -51,7 +51,7 @@ cd instaclone and pip install -r requirements.txt
 ``` 
 ##### Testing the application  
  ```bash 
- python manage.py test photos
+ python manage.py test.py
 ```
 Open the application on your browser on the port given.  
    
